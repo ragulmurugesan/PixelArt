@@ -1,0 +1,239 @@
+html,
+body {
+    height: 100%;
+}
+
+.elephant-container {
+    position: relative;
+    height: 190px;
+    background-color: #c5e5f3;
+    width: 350px;
+    top: 24vh;
+    left: 32vh;
+    border-radius: 18%;
+}
+
+div {
+    height: 10px;
+    width: 10px;
+    background-color: #333;
+}
+
+[class^="div-"] {
+    display: flex;
+    position: relative;
+}
+
+.div-1 {
+    flex-direction: column;
+    left: 32px;
+    top: 60px;
+}
+
+.div-2 {
+    left: 32px;
+    top: 20px;
+}
+
+.div-3 {
+    flex-direction: column;
+    left: 62px;
+    top: 10px;
+}
+
+.div-4 {
+    left: 62px;
+    top: 0px;
+}
+
+.div-5 {
+    left: 72px;
+    top: 0px;
+}
+
+.div-6 {
+    left: 82px;
+    top: -30px;
+}
+
+.div-7 {
+    flex-direction: column;
+    left: 92px;
+    top: -60px;
+}
+
+.div-8 {
+    flex-direction: column;
+    left: 102px;
+    top: -90px;
+}
+
+.div-9 {
+    left: 112px;
+    top: -110px;
+}
+
+.div-10 {
+    left: 122px;
+    top: -130px;
+}
+
+.div-11 {
+    left: 162px;
+    top: -130px;
+}
+
+.div-12 {
+    flex-direction: column;
+    left: 182px;
+    top: -140px;
+}
+
+.div-13 {
+    left: 192px;
+    top: -220px;
+}
+
+.div-14 {
+    left: 232px;
+    top: -220px;
+}
+
+.div-15 {
+    left: 242px;
+    top: -220px;
+}
+
+.div-16 {
+    flex-direction: column;
+    left: 252px;
+    top: -220px;
+}
+
+.div-17 {
+    flex-direction: column;
+    left: 242px;
+    top: -230px;
+}
+
+.div-18 {
+    left: 202px;
+    top: -240px;
+}
+
+.div-19 {
+    left: 192px;
+    top: -260px;
+}
+
+.div-20 {
+    flex-direction: column;
+    left: 262px;
+    top: -290px;
+}
+
+.div-21 {
+    flex-direction: column;
+    left: 272px;
+    top: -300px;
+}
+
+.div-22 {
+    flex-direction: column;
+    left: 262px;
+    top: -310px;
+}
+
+.div-23 {
+    left: 232px;
+    top: -320px;
+}
+
+.div-24 {
+    flex-direction: column;
+    left: 222px;
+    top: -350px;
+}
+
+.div-25 {
+    left: 192px;
+    top: -380px;
+}
+
+.div-26 {
+    flex-direction: column;
+    left: 182px;
+    top: -390px;
+}
+
+.div-27 {
+    flex-direction: column;
+    left: 172px;
+    top: -400px;
+}
+
+.div-28 {
+    left: 142px;
+    top: -410px;
+}
+
+.div-29 {
+    flex-direction: column;
+    left: 142px;
+    top: -440px;
+}
+
+.div-30 {
+    left: 112px;
+    top: -470px;
+}
+
+.div-31 {
+    left: 162px;
+    top: -490px;
+}
+
+.div-32 {
+    left: 82px;
+    top: -500px;
+}
+
+.div-33 {
+    left: 52px;
+    top: -520px;
+}
+
+.div-34 {
+    left: 42px;
+    top: -540px;
+}
+
+.div-35 {
+    left: 32px;
+    top: -560px;
+}
+
+.div-tail1 {
+    left: 282px;
+    top: -560px;
+}
+
+.div-tail2 {
+    left: 292px;
+    top: -580px;
+}
+
+.div-eye {
+    flex-direction: column;
+    left: 122px;
+    top: -610px;
+}
+
+.div-blush {
+    left: 122px;
+    top: -610px;
+}
+
+.div-blush>div {
+    background-color: pink;
+}
