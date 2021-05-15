@@ -1,7 +1,5 @@
-## Welcome to GitHub Pages
+Pixel Art
 
-You can use the [editor on GitHub](https://github.com/ragulmurugesan/PixelArt/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Check out the elephant made out of pixels, using pure HTML and CSS. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
+You can find the demo [here](https://ragulmurugesan.github.io/PixelArt). 
