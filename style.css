@@ -13,7 +13,7 @@ body {
     border-radius: 18%;
 }
 
-div {
+.elephant-container div {
     height: 10px;
     width: 10px;
     background-color: #333;
