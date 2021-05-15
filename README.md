@@ -1,4 +1,4 @@
-Pixel Art
+# Pixel Art
 
 Check out the elephant made out of pixels, using pure HTML and CSS. 
 
